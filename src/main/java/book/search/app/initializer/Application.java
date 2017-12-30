@@ -1,4 +1,4 @@
-package com.boo.search.app.initializer;
+package book.search.app.initializer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
